@@ -16,7 +16,7 @@ A modern and visually appealing **Currency Converter** built with **HTML, CSS, a
 
 ## Demo
 
-![Demo Screenshot](./.png)  
+![Demo Screenshot](Currency Converter SS./.png)  
 *Replace with your own screenshot or GIF showing the app in action.*
 
 ---
